@@ -1,0 +1,13 @@
+E:\.NET Core\Projects\UnitTestingMath\UnitTestingMath\UnitTestingMath\obj\Debug\netcoreapp3.1\UnitTestingMath.csprojAssemblyReference.cache
+E:\.NET Core\Projects\UnitTestingMath\UnitTestingMath\UnitTestingMath\obj\Debug\netcoreapp3.1\UnitTestingMath.AssemblyInfoInputs.cache
+E:\.NET Core\Projects\UnitTestingMath\UnitTestingMath\UnitTestingMath\obj\Debug\netcoreapp3.1\UnitTestingMath.AssemblyInfo.cs
+E:\.NET Core\Projects\UnitTestingMath\UnitTestingMath\UnitTestingMath\obj\Debug\netcoreapp3.1\UnitTestingMath.csproj.CoreCompileInputs.cache
+E:\.NET Core\Projects\UnitTestingMath\UnitTestingMath\UnitTestingMath\bin\Debug\netcoreapp3.1\UnitTestingMath.exe
+E:\.NET Core\Projects\UnitTestingMath\UnitTestingMath\UnitTestingMath\bin\Debug\netcoreapp3.1\UnitTestingMath.deps.json
+E:\.NET Core\Projects\UnitTestingMath\UnitTestingMath\UnitTestingMath\bin\Debug\netcoreapp3.1\UnitTestingMath.runtimeconfig.json
+E:\.NET Core\Projects\UnitTestingMath\UnitTestingMath\UnitTestingMath\bin\Debug\netcoreapp3.1\UnitTestingMath.runtimeconfig.dev.json
+E:\.NET Core\Projects\UnitTestingMath\UnitTestingMath\UnitTestingMath\bin\Debug\netcoreapp3.1\UnitTestingMath.dll
+E:\.NET Core\Projects\UnitTestingMath\UnitTestingMath\UnitTestingMath\bin\Debug\netcoreapp3.1\UnitTestingMath.pdb
+E:\.NET Core\Projects\UnitTestingMath\UnitTestingMath\UnitTestingMath\obj\Debug\netcoreapp3.1\UnitTestingMath.dll
+E:\.NET Core\Projects\UnitTestingMath\UnitTestingMath\UnitTestingMath\obj\Debug\netcoreapp3.1\UnitTestingMath.pdb
+E:\.NET Core\Projects\UnitTestingMath\UnitTestingMath\UnitTestingMath\obj\Debug\netcoreapp3.1\UnitTestingMath.genruntimeconfig.cache
